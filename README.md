@@ -49,7 +49,7 @@ MONGO_URI=mongodb://localhost:27017/social_media_app_mongo
 node app_runner.js
 ```
 
-The server will start at url and you can use the endpoints, sample data and operation are in the postman collection
+The server will start at url and you can use the endpoints listed below.
 
 
 ## List of Routes
